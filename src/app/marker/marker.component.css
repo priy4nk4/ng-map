@@ -1,0 +1,8 @@
+.sebm-google-map-container {
+  height: 300px ;
+  width:100%;
+}
+.navbar-nav{
+    position: absolute;
+    right:100px
+}
